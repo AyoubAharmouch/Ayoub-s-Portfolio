@@ -74,7 +74,8 @@
   
   .description {
     max-width: 30ch;
-    margin-left: 20%;
+    margin-left: 10%;
+
   }
   
   .info {
@@ -89,6 +90,7 @@
       flex-direction: row-reverse;
       align-items: center;
       justify-content: space-evenly;
+      
   
       .hero {
         max-width: 350px;
@@ -96,10 +98,6 @@
       }
       .colorModeContainer{
         margin: 0%;
-      }
-      .description {
-        max-width: 50ch;
-        margin-right: 20%;
       }
     }
   }
