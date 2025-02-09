@@ -97,6 +97,10 @@
       .colorModeContainer{
         margin: 0%;
       }
+      .description {
+        max-width: 50ch;
+        margin-right: 20%;
+      }
     }
   }
   
