@@ -74,7 +74,8 @@
   
   .description {
     max-width: 30ch;
-    margin-left: 18%;
+   text-align: center;
+   padding-left: 18%;
 
   }
   
