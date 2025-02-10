@@ -34,10 +34,10 @@ function Hero() {
         <span>
           {/* <a href="https://twitter.com" target="_blank"></a>
           <img src={twitterIcon} alt="twitter" /> */}
-          <a href="https://github.com/AyoubAharmouch" target="_blank"></a>
-          <img src={githubIcon} alt="github" />
-          <a href="https://www.linkedin.com/in/ayoub-aharmouch-1ba391216/" target="_blank"></a>
-          <img src={linkdinIcon} alt="" />
+          <a href="https://github.com/AyoubAharmouch" target="_blank">
+          <img src={githubIcon} alt="github" /></a>
+          <a href="https://www.linkedin.com/in/ayoub-aharmouch-1ba391216/" target="_blank">
+          <img src={linkdinIcon} alt="" /></a>
         </span>
         <p className={styles.description}>I am passionate about continuous learning and exploring innovative solutions. My curiosity drives me to research, discover, and implement new ideas, whether in technology, design, or problem-solving. I thrive on staying up-to-date with industry trends and leveraging my knowledge to create impactful and efficient solutions.</p>
         <a href={cv}  target='_blank' >
